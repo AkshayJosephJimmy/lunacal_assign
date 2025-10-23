@@ -3,7 +3,7 @@
 
 function DetailsWidget() {
   return (
-    <div className="details-widget">
+    <div className=" absolute details-widget h-[316px] w-full max-w-[720px] bg-gray-600 ">
      
     </div>
   );
