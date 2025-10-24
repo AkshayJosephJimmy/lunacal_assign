@@ -7,7 +7,7 @@ function Body(){
 
 
     return(
-        <div className="body-container bg-gray-800 w-full h-screen relative">
+        <div className="body-container bg-neutral-800 w-full h-screen relative">
             <DetailsWidget/>
         </div>
     )
