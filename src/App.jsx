@@ -1,10 +1,13 @@
 import Body from "./components/Body";
-
+import { NavProvider } from "./context/NavContext";
 
 
 function App() {
   return (
-    <Body/>
+    <NavProvider>
+      <Body/>
+
+    </NavProvider>
   )
 }
 export default App;
