@@ -13,8 +13,8 @@ function handleSelect(index){
 
 
 return(
-<div className=" p-1  w-[614px] h-[62px] bg-neutral-900 shadow-2xl shadow-black rounded-[26px] mx-auto mt-2 ">
-    <nav className=" relative flex h-full w-full text-gray-400   mx-auto gap-1.5 justify-baseline items-center rounded-[26px]">
+<div className=" p-1 mt-2 relative w-[614px] h-[62px] bg-neutral-900 shadow-2xl shadow-black rounded-[26px] mx-auto  ">
+    <nav className=" relative flex h-full w-full text-gray-400 mx-auto gap-1.5 justify-baseline items-center rounded-[26px]">
 
         <div
   className="absolute top-0 z-0 shadow-2xl shadow-black left-0 h-[55px] w-1/3 bg-gradient-to-r from-neutral-800 to-neutral-700 rounded-[26px] transition-all duration-500 ease-in-out"
