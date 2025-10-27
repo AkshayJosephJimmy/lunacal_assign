@@ -5,7 +5,7 @@ import GridIcon from "./GridIcon";
 
 function QuestionMark() {
   return (
-    <div className=" absolute h-[160px] flex flex-col justify-between ml-3">
+    <div className=" absolute h-[160px]  flex flex-col justify-between ml-3">
 
 
    <AiOutlineQuestionCircle className="text-gray-400 h-12 w-6" />

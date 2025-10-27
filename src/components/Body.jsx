@@ -8,7 +8,7 @@ function Body(){
 
 
     return(
-        <div className="body-container relative flex flex-col justify-between bg-neutral-800 w-full h-screen ">
+        <div className="body-container  relative bg-neutral-800 w-full h-screen overflow-hidden ">
             <DetailsWidget/>
             <GalleryWidget/>
         </div>
