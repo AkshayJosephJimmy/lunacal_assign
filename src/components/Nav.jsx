@@ -13,7 +13,7 @@ function handleSelect(index){
 
 
 return(
-<div className=" p-1 mt-1 w-[614px] h-[62px] bg-neutral-900 shadow-2xl shadow-black rounded-[26px] mx-auto  ">
+<div className=" p-1 mt-1 w-full w-max-[614px] h-[62px] bg-neutral-900 shadow-2xl shadow-black rounded-[26px] mx-auto  ">
     <nav className=" relative flex h-full w-full text-gray-400 mx-auto gap-1.5 justify-baseline items-center rounded-[26px]">
 
         <div
